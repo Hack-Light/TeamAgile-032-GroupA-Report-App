@@ -1,6 +1,5 @@
 # TeamAgile-032-GroupA
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7308829a75b4427780bbbefe308ab400)](https://app.codacy.com/gh/BuildForSDGCohort2/TeamAgile-032-GroupA?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDGCohort2/TeamAgile-032-GroupA&utm_campaign=Badge_Grade_Settings)
 
 A repository for mobile application project built with react native.
 
